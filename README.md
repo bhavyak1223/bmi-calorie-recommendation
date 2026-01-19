@@ -1,7 +1,9 @@
 BMI & Goal-Based Calorie Recommendation App
+
 A simple and interactive React JS web application that calculates Body Mass Index (BMI) and provides goal-based daily calorie recommendations to help users gain, lose, or maintain weight in a healthy way.
 
 🚀 Features
+
 ✅ BMI calculation using standard BMI formula
 
 ✅ BMI category classification:
@@ -31,6 +33,7 @@ Overweight/Obese → calorie deficit (weight loss)
 ✅ Responsive UI using Tailwind CSS
 
 🛠️ Tech Stack
+
 React JS – frontend framework
 
 JavaScript (ES6) – application logic
